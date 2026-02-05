@@ -16,5 +16,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="docs\project.md" />
+    <None Include="D:\Важно\Downloads\Диаграмма экранов.drawio" />
   </ItemGroup>
 </Project>
