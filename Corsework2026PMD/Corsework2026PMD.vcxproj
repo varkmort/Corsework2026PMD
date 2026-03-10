@@ -132,6 +132,7 @@
       <SubType>
       </SubType>
     </None>
+    <None Include="docs\Общая структура локаций Dark Fantasy проекта.drawio" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
